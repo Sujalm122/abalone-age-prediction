@@ -4,7 +4,7 @@
 This project predicts the age of abalone using machine learning based on physical features.
 
 ## Live Demo
-👉 (paste your Hugging Face link here)
+👉 https://sujal2507-abalone-age-prediction.hf.space/
 
 ## Features
 - Data preprocessing and visualization
